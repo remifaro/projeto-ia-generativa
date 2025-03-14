@@ -1,0 +1,26 @@
+Resultados de reconhecimento de texto nas imagens:
+
+1- Imagem de uma campanha publicitária do Burger King
+
+> Resultado: A análise de sentimentos desta campanha publicitária do Burger King, que apresenta o slogan "Time to be proud" junto com a imagem de um hambúrguer chamado "Pride Whopper", pode ser dividida em dois componentes principais: o texto e a imagem.
+
+Texto: "Time to be proud."
+Sentimento Positivo: O slogan transmite uma mensagem de orgulho e autoaceitação, que é altamente positiva e motivadora. A frase sugere que é um momento para celebração da identidade e expressão individual.
+Inclusão e Apoio: Ao escolher a palavra "proud" (orgulhoso), há uma clara alusão ao movimento LGBTQ+ (Pride), indicando apoio e solidariedade a esta comunidade.
+
+Imagem: Hambúrguer "Pride Whopper"
+Atração Visual: A imagem do hambúrguer é apresentada de forma apetitosa e atraente, com cores vivas e uma composição que destaca os ingredientes frescos. Isso evoca sentimentos de desejo e prazer associados à comida.
+Cores Vibrantes: O fundo colorido, reminiscente do arco-íris, não apenas chama a atenção, mas também serve como outro aceno para a bandeira do orgulho LGBTQ+, fortalecendo a mensagem de inclusão e celebração da diversidade.
+
+Análise Geral da imagem Burger King
+A combinação do texto motivador e da imagem vibrante e inclusiva cria uma campanha publicitária positiva, que celebra a diversidade e incentiva os indivíduos a se orgulharem de quem são. A campanha parece ser projetada para resonar emocionalmente com o público, promovendo sentimentos de aceitação e alegria. Além disso, ao associar esses sentimentos positivos com o produto (Pride Whopper), a Burger King não apenas vende um hambúrguer, mas também se posiciona como uma marca que valoriza e apoia a diversidade e a inclusão.
+
+
+2- Imagem da letra de música
+
+> Resultado: A imagem mostra a letra da música "Velha Infância" dos Tribalistas. A letra expressa sentimentos de carinho e amor profundo, refletindo a intimidade e a conexão especial entre duas pessoas. A música fala sobre pensar constantemente em alguém, desfrutar da companhia dessa pessoa e a felicidade que isso traz. É uma canção que evoca sentimentos de nostalgia e afeto duradouro.
+
+
+3- Imagem de Recife
+
+> Resultado: A imagem mostra uma vista aérea de uma praia urbana com águas claras e uma extensa faixa de areia. Ao fundo, pode-se ver uma densa área urbana com muitos prédios altos, característicos de uma grande cidade. Esta paisagem é típica de áreas costeiras bem desenvolvidas, onde a proximidade da praia adiciona grande valor à vida urbana, oferecendo acessibilidade a atividades de lazer e uma bela vista.
